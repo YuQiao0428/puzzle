@@ -60,7 +60,7 @@ class MainActivity : AppCompatActivity() {
             db.collection("Users")
                 //.document(edtName.text.toString())
                 //.set(user)
-                .add(user)  //自動產生文件ID
+                .add(user)   //自動產生文件ID
                 .addOnSuccessListener{
                     Toast.makeText(this, "新增資料成功",
                         Toast.LENGTH_LONG).show()
