@@ -36,7 +36,7 @@ class MainActivity : AppCompatActivity() {
     lateinit var edtSecond: EditText
 
     lateinit var binding: ActivityMainBinding;
-    var secondsLeft:Int = 0  //計時
+    var secondsLeft:Int = 0   //計時
     lateinit var job: Job
 
     override fun onCreate(savedInstanceState: Bundle?) {
