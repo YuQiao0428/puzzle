@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "736495347641",
+    "project_id": "puzzle-62d3e",
+    "storage_bucket": "puzzle-62d3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736495347641:android:24bbd947c1e00f71363868",
+        "android_client_info": {
+          "package_name": "tw.edu.pu.csim.cyyang.puzzle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736495347641-jflghcbrqeq7f7ij7ri8a9pqddtg09n4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcEBN5cgA4rjHdXFSiSqM1KF8plB8nF2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736495347641-jflghcbrqeq7f7ij7ri8a9pqddtg09n4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
